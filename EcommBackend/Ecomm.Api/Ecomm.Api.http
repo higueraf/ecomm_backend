@@ -1,6 +1,0 @@
-@Ecomm.Api_HostAddress = http://localhost:5032
-
-
-Accept: application/json
-
-###
